@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am the yongest Web Developer in Pakistan
 - <footer>
-  <p>&copy; 2024 All Rights Reserved | SkipScaped, not any of my work is for template use or any other.</p>
+  <p>&copy; 2025 All Rights Reserved | SkipScaped, not any of my work is for template use or any other.</p>
 </footer>
 
 
