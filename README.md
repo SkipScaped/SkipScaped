@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaliyan(SkipScape)</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate full-stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skipscaped&label=Profile%20views&color=0e75b6&style=flat" alt="skipscaped" /> </p>
 
@@ -12,8 +12,10 @@
 - 👨‍💻 All of my projects are available at [https://aaliyan-dev.vercel.app/](https://aaliyan-dev.vercel.app/)
 
 - 💬 Ask me about **Next.js React.js Django Python**
+- 👨‍💻 My experience **I Have 3 years experience  HTML|CSS|JS|React and 3 years in Python,Django and Next total 6 years**
 
 - 📫 How to reach me **skipscape.dev@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
