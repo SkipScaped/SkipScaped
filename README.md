@@ -28,3 +28,21 @@
 
 
 
+
+
+###
+ Support Me on Pateron!!
+<div align="left">
+
+
+
+<a href="https://patreon.com/SkipScape?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo" />
+</a>
+
+
+###
+
+
+
+
