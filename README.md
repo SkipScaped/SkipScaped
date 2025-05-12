@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://aaliyan-dev.vercel.app/](https://aaliyan-dev.vercel.app/)
 
 - 💬 Ask me about **Next.js React.js Django Python**
-- 👨‍💻 My experience **I Have 3 years experience  HTML|CSS|JS|React and 3 years in Python,Django and Next total 6 years**
+- 👨‍💻 My experience **I Have 2 years experience  HTML|CSS|JS|React and 2 years in Python,Django and Next total 4 years**
 
 - 📫 How to reach me **skipscape.dev@gmail.com**
 
