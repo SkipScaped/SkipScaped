@@ -19,7 +19,7 @@ I am a passionate Full-Stack Developer with **4 years of experience** building r
 
 - 🔭 **Current Focus:** Building the [Private Java SMP](https://github.com/SkipScaped/privateJava-Smp) ecosystem.
 - 🌱 **Learning Journey:** Diving deep into **Game Development** with Unity and C#.
-- 👨‍💻 **Portfolio:** Check out my work at [aaliyan-dev.vercel.app](https://aaliyan-dev.vercel.app/)
+- 👨‍💻 **Portfolio:** Check out my work at [aaliyan-dev.vercel.app](https://aaliyans-portfolio-website.vercel.app/)
 - 💬 **Ask me about:** React, Next.js, Django, Python, and Scalable Architecture.
 - 📫 **Reach me:** [skipscape.dev@gmail.com](mailto:skipscape.dev@gmail.com)
 
