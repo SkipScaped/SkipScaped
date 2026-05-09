@@ -1,30 +1,50 @@
-<h1 align="center">Hi 👋, I'm Aaliyan(SkipScape)</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Aaliyan (SkipScape)</h1>
+<h3 align="center">Full-Stack Developer | Game Dev Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skipscaped&label=Profile%20views&color=0e75b6&style=flat" alt="skipscaped" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=skipscaped&label=Profile%20views&color=0e75b6&style=flat-square" alt="skipscaped" />
+  <img src="https://img.shields.io/badge/Location-Pakistan-green?style=flat-square" alt="Location" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skipscaped" alt="skipscaped" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=skipscaped&theme=dracula&no-frame=true&column=7" alt="skipscaped trophies" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on [Private Java SMP](https://github.com/SkipScaped/privateJava-Smp)
+---
 
-- 🌱 I’m currently learning **Game Dev In Unity and C#**
+### 🚀 About Me
+I am a passionate Full-Stack Developer with **4 years of experience** building robust web applications. I specialize in bridging the gap between high-performance backends and interactive frontends.
 
-- 👨‍💻 All of my projects are available at [https://aaliyan-dev.vercel.app/](https://aaliyan-dev.vercel.app/)
+- 🔭 **Current Focus:** Building the [Private Java SMP](https://github.com/SkipScaped/privateJava-Smp) ecosystem.
+- 🌱 **Learning Journey:** Diving deep into **Game Development** with Unity and C#.
+- 👨‍💻 **Portfolio:** Check out my work at [aaliyan-dev.vercel.app](https://aaliyan-dev.vercel.app/)
+- 💬 **Ask me about:** React, Next.js, Django, Python, and Scalable Architecture.
+- 📫 **Reach me:** [skipscape.dev@gmail.com](mailto:skipscape.dev@gmail.com)
 
-- 💬 Ask me about **Next.js React.js Django Python**
-- 👨‍💻 My experience **I Have 2 years experience  HTML|CSS|JS|React and 2 years in Python,Django and Next total 4 years**
+---
 
-- 📫 How to reach me **skipscape.dev@gmail.com**
+### 🛠️ Tech Stack
 
+#### **Frontend & Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
+#### **Tools & Game Dev**
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-
-
-
-
-
+---
 
